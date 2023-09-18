@@ -1,9 +1,9 @@
 ### Hi there 👋
-### 🥰 My name is Dawoom Jung and I usually go by DJ
-### 🧑‍🎓 I am studying Human Rights and Humanitarian Studies at SIPA Columbia
-### 👩‍💻 I'm currently learning how to use Python for Text Analysis
-### 📫 How to reach me: dj2647@columbia.edu
-### 😄 Pronouns: she/her/hers
+#### 🥰 My name is Dawoom Jung and I usually go by DJ
+#### 🧑‍🎓 I am studying Human Rights and Humanitarian Studies at SIPA Columbia
+#### 👩‍💻 I'm currently learning how to use Python for Text Analysis
+#### 📫 How to reach me: dj2647@columbia.edu
+#### 😄 Pronouns: she/her/hers
 <!--
 **dawoomjung/dawoomjung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
